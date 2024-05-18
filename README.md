@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FusionSpeedYT
 - 👀 I Have A YT https://www.youtube.com/channel/UCeX4fBDcFwDwsIkviElywnQ
-- 🌱 I’m adding all your posters in my game
-- 💞️ I’m looking to collaborate on my gorilla tag fangame JinxVR
-- 📫 How to reach me, my discord is Fusion Speed 
+- 🌱 I’m adding all your ideas to our menu!
+- 👀 We also have a discord server! https://discord.gg/ZeYYUz6xnW  
+- 📫 How to reach me, my discord is fusion_speed 
 
 <!---
 FusionSpeedYT/FusionSpeedYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
